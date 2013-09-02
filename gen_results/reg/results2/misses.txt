@@ -1,0 +1,96 @@
+------------------------------------------------------------------
+ALPHA = 0.05
+------------------------------------------------------------------
+Avg S misses prior	Avg U misses prior	Avg S misses post	Avg U misses post
+Avg additional probes for primary hash type 1 and secondary hash type 1
+0	1	0	1
+Avg additional probes for primary hash type 1 and secondary hash type 2
+0	1	0	1
+Avg additional probes for primary hash type 1 and secondary hash type 3
+0	1	0	1
+Avg additional probes for primary hash type 2 and secondary hash type 1
+0	1	0	1
+Avg additional probes for primary hash type 2 and secondary hash type 2
+0	1	0	1
+Avg additional probes for primary hash type 2 and secondary hash type 3
+0	1	0	1
+------------------------------------------------------------------
+ALPHA = 0.1
+------------------------------------------------------------------
+Avg S misses prior	Avg U misses prior	Avg S misses post	Avg U misses post
+Avg additional probes for primary hash type 1 and secondary hash type 1
+0	1	0	1
+Avg additional probes for primary hash type 1 and secondary hash type 2
+0	1	0	1
+Avg additional probes for primary hash type 1 and secondary hash type 3
+0	1	0	1
+Avg additional probes for primary hash type 2 and secondary hash type 1
+0	1	0	1
+Avg additional probes for primary hash type 2 and secondary hash type 2
+0	1	0	1
+Avg additional probes for primary hash type 2 and secondary hash type 3
+0	1	0	1
+------------------------------------------------------------------
+ALPHA = 0.5
+------------------------------------------------------------------
+Avg S misses prior	Avg U misses prior	Avg S misses post	Avg U misses post
+Avg additional probes for primary hash type 1 and secondary hash type 1
+0	2	0	2
+Avg additional probes for primary hash type 1 and secondary hash type 2
+0	2	0	2
+Avg additional probes for primary hash type 1 and secondary hash type 3
+0	2	0	2
+Avg additional probes for primary hash type 2 and secondary hash type 1
+0	2	0	2
+Avg additional probes for primary hash type 2 and secondary hash type 2
+0	1	0	1
+Avg additional probes for primary hash type 2 and secondary hash type 3
+0	2	0	2
+------------------------------------------------------------------
+ALPHA = 0.8
+------------------------------------------------------------------
+Avg S misses prior	Avg U misses prior	Avg S misses post	Avg U misses post
+Avg additional probes for primary hash type 1 and secondary hash type 1
+0	13	0	13
+Avg additional probes for primary hash type 1 and secondary hash type 2
+0	5	0	5
+Avg additional probes for primary hash type 1 and secondary hash type 3
+0	5	0	5
+Avg additional probes for primary hash type 2 and secondary hash type 1
+0	12	0	12
+Avg additional probes for primary hash type 2 and secondary hash type 2
+0	4	0	4
+Avg additional probes for primary hash type 2 and secondary hash type 3
+0	5	0	5
+------------------------------------------------------------------
+ALPHA = 0.9
+------------------------------------------------------------------
+Avg S misses prior	Avg U misses prior	Avg S misses post	Avg U misses post
+Avg additional probes for primary hash type 1 and secondary hash type 1
+0	49	0	49
+Avg additional probes for primary hash type 1 and secondary hash type 2
+0	11	0	11
+Avg additional probes for primary hash type 1 and secondary hash type 3
+0	11	0	11
+Avg additional probes for primary hash type 2 and secondary hash type 1
+0	50	0	50
+Avg additional probes for primary hash type 2 and secondary hash type 2
+0	10	0	10
+Avg additional probes for primary hash type 2 and secondary hash type 3
+0	9	0	9
+------------------------------------------------------------------
+ALPHA = 0.95
+------------------------------------------------------------------
+Avg S misses prior	Avg U misses prior	Avg S misses post	Avg U misses post
+Avg additional probes for primary hash type 1 and secondary hash type 1
+0	199	0	199
+Avg additional probes for primary hash type 1 and secondary hash type 2
+0	22	0	22
+Avg additional probes for primary hash type 1 and secondary hash type 3
+0	22	0	22
+Avg additional probes for primary hash type 2 and secondary hash type 1
+0	188	0	188
+Avg additional probes for primary hash type 2 and secondary hash type 2
+0	20	0	20
+Avg additional probes for primary hash type 2 and secondary hash type 3
+0	19	0	19

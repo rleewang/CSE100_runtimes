@@ -1,0 +1,486 @@
+------------------------------------------------------------------
+ALPHA = 0.05
+------------------------------------------------------------------
+Stats for primary hash type 1 and secondary hash type 1
+stdev: 3.70634e-07
+max: 1.9e-05
+min: 0
+stdev: 4.55126e-07
+max: 2.5e-05
+min: 0
+stdev: 6.38501e-07
+max: 7.9e-05
+min: 0
+stdev: 4.56837e-07
+max: 2.4e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 2
+stdev: 3.59505e-07
+max: 1.2e-05
+min: 0
+stdev: 4.9948e-07
+max: 2.1e-05
+min: 0
+stdev: 3.54214e-07
+max: 5e-06
+min: 0
+stdev: 5.42789e-07
+max: 4.2e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 3
+stdev: 3.89356e-07
+max: 2e-05
+min: 0
+stdev: 4.87504e-07
+max: 2.1e-05
+min: 0
+stdev: 3.80787e-07
+max: 1.7e-05
+min: 0
+stdev: 4.96276e-07
+max: 2.6e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 1
+stdev: 3.94902e-07
+max: 5e-06
+min: 0
+stdev: 5.01876e-07
+max: 2e-05
+min: 0
+stdev: 4.1922e-07
+max: 2e-05
+min: 0
+stdev: 5.29453e-07
+max: 2.2e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 2
+stdev: 4.28402e-07
+max: 2e-05
+min: 0
+stdev: 5.45747e-07
+max: 2.3e-05
+min: 0
+stdev: 4.46667e-07
+max: 2.6e-05
+min: 0
+stdev: 5.57378e-07
+max: 2.4e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 3
+stdev: 3.96781e-07
+max: 6e-06
+min: 0
+stdev: 5.501e-07
+max: 2.7e-05
+min: 0
+stdev: 4.30666e-07
+max: 2.4e-05
+min: 0
+stdev: 5.66789e-07
+max: 3.6e-05
+min: 0
+------------------------------------------------------------------
+ALPHA = 0.1
+------------------------------------------------------------------
+Stats for primary hash type 1 and secondary hash type 1
+stdev: 3.58762e-07
+max: 6e-06
+min: 0
+stdev: 4.56289e-07
+max: 2.1e-05
+min: 0
+stdev: 3.93304e-07
+max: 2.3e-05
+min: 0
+stdev: 4.56914e-07
+max: 2.8e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 2
+stdev: 3.57723e-07
+max: 5e-06
+min: 0
+stdev: 4.90765e-07
+max: 1.9e-05
+min: 0
+stdev: 3.86825e-07
+max: 2.4e-05
+min: 0
+stdev: 5.01837e-07
+max: 2.4e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 3
+stdev: 3.59107e-07
+max: 5e-06
+min: 0
+stdev: 4.745e-07
+max: 1.8e-05
+min: 0
+stdev: 3.91847e-07
+max: 2.5e-05
+min: 0
+stdev: 5.08035e-07
+max: 3.1e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 1
+stdev: 3.95939e-07
+max: 1.1e-05
+min: 0
+stdev: 5.13215e-07
+max: 1.9e-05
+min: 0
+stdev: 4.27421e-07
+max: 2.1e-05
+min: 0
+stdev: 5.08429e-07
+max: 2.7e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 2
+stdev: 3.99607e-07
+max: 1.1e-05
+min: 0
+stdev: 5.35742e-07
+max: 2.5e-05
+min: 0
+stdev: 4.21828e-07
+max: 2.3e-05
+min: 0
+stdev: 5.405e-07
+max: 1.9e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 3
+stdev: 4.19243e-07
+max: 2.1e-05
+min: 0
+stdev: 5.3478e-07
+max: 1.8e-05
+min: 0
+stdev: 4.34634e-07
+max: 3.1e-05
+min: 0
+stdev: 5.42291e-07
+max: 2.4e-05
+min: 0
+------------------------------------------------------------------
+ALPHA = 0.5
+------------------------------------------------------------------
+Stats for primary hash type 1 and secondary hash type 1
+stdev: 3.78282e-07
+max: 2.5e-05
+min: 0
+stdev: 5.38795e-07
+max: 2.6e-05
+min: 0
+stdev: 3.81355e-07
+max: 3e-05
+min: 0
+stdev: 5.40361e-07
+max: 2.1e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 2
+stdev: 3.7957e-07
+max: 1.3e-05
+min: 0
+stdev: 5.70658e-07
+max: 2.6e-05
+min: 0
+stdev: 3.93486e-07
+max: 2.3e-05
+min: 0
+stdev: 5.7874e-07
+max: 2.6e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 3
+stdev: 3.87295e-07
+max: 2.1e-05
+min: 0
+stdev: 5.6611e-07
+max: 1.9e-05
+min: 0
+stdev: 3.82548e-07
+max: 2e-05
+min: 0
+stdev: 5.73908e-07
+max: 2.1e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 1
+stdev: 4.19486e-07
+max: 2.1e-05
+min: 0
+stdev: 6.4384e-07
+max: 2.2e-05
+min: 0
+stdev: 4.1759e-07
+max: 2.1e-05
+min: 0
+stdev: 6.39195e-07
+max: 2.4e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 2
+stdev: 4.31464e-07
+max: 2.7e-05
+min: 0
+stdev: 6.23562e-07
+max: 2e-05
+min: 0
+stdev: 4.20829e-07
+max: 1.7e-05
+min: 0
+stdev: 6.39351e-07
+max: 2.2e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 3
+stdev: 4.52413e-07
+max: 7.7e-05
+min: 0
+stdev: 6.27893e-07
+max: 2.1e-05
+min: 0
+stdev: 4.31499e-07
+max: 2.5e-05
+min: 0
+stdev: 6.3502e-07
+max: 2.2e-05
+min: 0
+------------------------------------------------------------------
+ALPHA = 0.8
+------------------------------------------------------------------
+Stats for primary hash type 1 and secondary hash type 1
+stdev: 6.61262e-07
+max: 0.000344
+min: 0
+stdev: 1.37392e-06
+max: 2.8e-05
+min: 0
+stdev: 3.93074e-07
+max: 2.2e-05
+min: 0
+stdev: 1.36087e-06
+max: 2.2e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 2
+stdev: 4.0743e-07
+max: 3.1e-05
+min: 0
+stdev: 8.24603e-07
+max: 2.6e-05
+min: 0
+stdev: 4.07105e-07
+max: 4.4e-05
+min: 0
+stdev: 8.1903e-07
+max: 4e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 3
+stdev: 4.0006e-07
+max: 1.8e-05
+min: 0
+stdev: 8.16346e-07
+max: 2.2e-05
+min: 0
+stdev: 4.03189e-07
+max: 2e-05
+min: 0
+stdev: 8.12613e-07
+max: 2e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 1
+stdev: 4.40396e-07
+max: 2.1e-05
+min: 0
+stdev: 2.12549e-06
+max: 3e-05
+min: 0
+stdev: 4.38117e-07
+max: 2e-05
+min: 0
+stdev: 2.13749e-06
+max: 3.7e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 2
+stdev: 4.43829e-07
+max: 2e-05
+min: 0
+stdev: 8.80165e-07
+max: 2.2e-05
+min: 0
+stdev: 5.13448e-07
+max: 9.8e-05
+min: 0
+stdev: 8.84681e-07
+max: 2.5e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 3
+stdev: 4.45619e-07
+max: 2.2e-05
+min: 0
+stdev: 1.39109e-06
+max: 0.000338
+min: 0
+stdev: 4.47395e-07
+max: 2e-05
+min: 0
+stdev: 9.28569e-07
+max: 2.4e-05
+min: 0
+------------------------------------------------------------------
+ALPHA = 0.9
+------------------------------------------------------------------
+Stats for primary hash type 1 and secondary hash type 1
+stdev: 3.99474e-07
+max: 1.8e-05
+min: 0
+stdev: 5.46634e-06
+max: 0.000348
+min: 0
+stdev: 4.05226e-07
+max: 3e-05
+min: 0
+stdev: 5.40838e-06
+max: 6.4e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 2
+stdev: 4.30373e-07
+max: 3.6e-05
+min: 0
+stdev: 1.33151e-06
+max: 3.6e-05
+min: 0
+stdev: 4.06562e-07
+max: 2.2e-05
+min: 0
+stdev: 1.31164e-06
+max: 3.8e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 3
+stdev: 4.06635e-07
+max: 2.4e-05
+min: 0
+stdev: 1.29063e-06
+max: 2.5e-05
+min: 0
+stdev: 4.10105e-07
+max: 2.3e-05
+min: 0
+stdev: 1.29471e-06
+max: 2.5e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 1
+stdev: 4.64677e-07
+max: 5.7e-05
+min: 0
+stdev: 8.31545e-06
+max: 0.000347
+min: 0
+stdev: 4.46242e-07
+max: 2e-05
+min: 0
+stdev: 8.24327e-06
+max: 0.000102
+min: 0
+Stats for primary hash type 2 and secondary hash type 2
+stdev: 4.46835e-07
+max: 1.4e-05
+min: 0
+stdev: 1.40953e-06
+max: 2.6e-05
+min: 0
+stdev: 6.70671e-07
+max: 0.000339
+min: 0
+stdev: 1.40892e-06
+max: 2.6e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 3
+stdev: 4.60876e-07
+max: 2.6e-05
+min: 0
+stdev: 1.44667e-06
+max: 2.7e-05
+min: 0
+stdev: 4.64321e-07
+max: 2.5e-05
+min: 0
+stdev: 1.45784e-06
+max: 2.7e-05
+min: 0
+------------------------------------------------------------------
+ALPHA = 0.95
+------------------------------------------------------------------
+Stats for primary hash type 1 and secondary hash type 1
+stdev: 4.13831e-07
+max: 2.5e-05
+min: 0
+stdev: 1.8588e-05
+max: 0.00036
+min: 0
+stdev: 4.10748e-07
+max: 2.4e-05
+min: 0
+stdev: 1.79183e-05
+max: 0.00037
+min: 0
+Stats for primary hash type 1 and secondary hash type 2
+stdev: 4.11532e-07
+max: 1.9e-05
+min: 0
+stdev: 2.53365e-06
+max: 6.1e-05
+min: 0
+stdev: 4.2459e-07
+max: 2.7e-05
+min: 0
+stdev: 2.37425e-06
+max: 3.9e-05
+min: 0
+Stats for primary hash type 1 and secondary hash type 3
+stdev: 4.09887e-07
+max: 1.9e-05
+min: 0
+stdev: 2.31701e-06
+max: 3.1e-05
+min: 0
+stdev: 4.10849e-07
+max: 2e-05
+min: 0
+stdev: 2.3189e-06
+max: 2.8e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 1
+stdev: 4.51835e-07
+max: 1.8e-05
+min: 0
+stdev: 3.16972e-05
+max: 0.000371
+min: 0
+stdev: 4.51132e-07
+max: 1.8e-05
+min: 0
+stdev: 3.13114e-05
+max: 0.00037
+min: 0
+Stats for primary hash type 2 and secondary hash type 2
+stdev: 4.75716e-07
+max: 3.1e-05
+min: 0
+stdev: 2.51541e-06
+max: 3.4e-05
+min: 0
+stdev: 4.52377e-07
+max: 1.9e-05
+min: 0
+stdev: 2.51409e-06
+max: 3.3e-05
+min: 0
+Stats for primary hash type 2 and secondary hash type 3
+stdev: 4.64791e-07
+max: 2e-05
+min: 0
+stdev: 2.5756e-06
+max: 3.1e-05
+min: 0
+stdev: 4.63027e-07
+max: 2e-05
+min: 0
+stdev: 2.55526e-06
+max: 3.1e-05
+min: 0

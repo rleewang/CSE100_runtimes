@@ -1,0 +1,583 @@
+------------------------------------------------------------------
+ALPHA = 0.05
+------------------------------------------------------------------
+Clusters for primary hash type 1 and secondary hash type 1
+1	24369
+2	880
+3	27
+4	1
+
+Clusters for primary hash type 1 and secondary hash type 2
+1	24972
+2	615
+3	4
+
+Clusters for primary hash type 1 and secondary hash type 3
+1	24963
+2	618
+3	5
+
+Clusters for primary hash type 2 and secondary hash type 1
+1	24301
+2	898
+3	35
+4	3
+
+Clusters for primary hash type 2 and secondary hash type 2
+1	24926
+2	617
+3	18
+
+Clusters for primary hash type 2 and secondary hash type 3
+1	24921
+2	618
+3	19
+
+------------------------------------------------------------------
+ALPHA = 0.1
+------------------------------------------------------------------
+Clusters for primary hash type 1 and secondary hash type 1
+1	45100
+2	3243
+3	251
+4	21
+5	1
+
+Clusters for primary hash type 1 and secondary hash type 2
+1	47268
+2	2416
+3	108
+4	1
+
+Clusters for primary hash type 1 and secondary hash type 3
+1	47286
+2	2414
+3	102
+4	2
+
+Clusters for primary hash type 2 and secondary hash type 1
+1	45128
+2	3182
+3	274
+4	26
+5	2
+
+Clusters for primary hash type 2 and secondary hash type 2
+1	47397
+2	2315
+3	127
+4	5
+
+Clusters for primary hash type 2 and secondary hash type 3
+1	47331
+2	2340
+3	131
+4	6
+
+------------------------------------------------------------------
+ALPHA = 0.5
+------------------------------------------------------------------
+Clusters for primary hash type 1 and secondary hash type 1
+1	119243
+2	34942
+3	11957
+4	4634
+5	1821
+6	766
+7	349
+8	152
+9	87
+10	17
+11	10
+12	10
+13	4
+14	1
+
+Clusters for primary hash type 1 and secondary hash type 2
+1	147479
+2	36906
+3	9177
+4	2343
+5	537
+6	163
+7	30
+8	5
+9	4
+
+Clusters for primary hash type 1 and secondary hash type 3
+1	147637
+2	36896
+3	9174
+4	2259
+5	576
+6	160
+7	31
+8	10
+9	1
+10	1
+
+Clusters for primary hash type 2 and secondary hash type 1
+1	119282
+2	34803
+3	11942
+4	4768
+5	1832
+6	750
+7	330
+8	125
+9	76
+10	33
+11	20
+12	5
+13	5
+14	1
+15	1
+
+Clusters for primary hash type 2 and secondary hash type 2
+1	147279
+2	36921
+3	9309
+4	2326
+5	560
+6	118
+7	29
+8	3
+9	3
+10	3
+
+Clusters for primary hash type 2 and secondary hash type 3
+1	147715
+2	36859
+3	9218
+4	2283
+5	569
+6	124
+7	39
+8	2
+9	4
+11	1
+
+------------------------------------------------------------------
+ALPHA = 0.8
+------------------------------------------------------------------
+Clusters for primary hash type 1 and secondary hash type 1
+1	113926
+2	45506
+3	21515
+4	11291
+5	6255
+6	3679
+7	2182
+8	1291
+9	887
+10	538
+11	311
+12	210
+13	148
+14	104
+15	68
+16	39
+17	26
+18	18
+19	9
+20	12
+21	2
+22	4
+23	3
+24	2
+25	1
+26	1
+29	1
+
+Clusters for primary hash type 1 and secondary hash type 2
+1	152183
+2	60055
+3	24160
+4	9682
+5	3772
+6	1530
+7	645
+8	220
+9	89
+10	44
+11	18
+12	8
+13	5
+14	1
+
+Clusters for primary hash type 1 and secondary hash type 3
+1	151592
+2	60143
+3	24076
+4	9639
+5	3849
+6	1597
+7	624
+8	253
+9	110
+10	28
+11	14
+12	7
+13	2
+14	1
+
+Clusters for primary hash type 2 and secondary hash type 1
+1	113426
+2	45346
+3	21838
+4	11429
+5	6286
+6	3666
+7	2136
+8	1325
+9	853
+10	502
+11	344
+12	223
+13	134
+14	101
+15	45
+16	41
+17	32
+18	15
+19	15
+20	6
+21	9
+23	1
+29	1
+
+Clusters for primary hash type 2 and secondary hash type 2
+1	151246
+2	60342
+3	24121
+4	9669
+5	3818
+6	1613
+7	618
+8	231
+9	93
+10	48
+11	12
+12	1
+13	1
+14	2
+17	1
+
+Clusters for primary hash type 2 and secondary hash type 3
+1	150624
+2	60133
+3	24333
+4	9580
+5	3965
+6	1593
+7	596
+8	253
+9	97
+10	42
+11	20
+12	7
+14	1
+15	1
+16	1
+
+------------------------------------------------------------------
+ALPHA = 0.9
+------------------------------------------------------------------
+Clusters for primary hash type 1 and secondary hash type 1
+1	105682
+2	45624
+3	23074
+4	12986
+5	7850
+6	4803
+7	2848
+8	2077
+9	1265
+10	930
+11	626
+12	476
+13	277
+14	222
+15	148
+16	102
+17	64
+18	52
+19	46
+20	22
+21	18
+22	13
+23	11
+24	7
+25	6
+26	6
+27	6
+28	4
+29	3
+30	1
+31	1
+32	1
+34	1
+41	2
+
+Clusters for primary hash type 1 and secondary hash type 2
+1	143103
+2	64211
+3	28930
+4	13037
+5	5770
+6	2631
+7	1185
+8	540
+9	245
+10	105
+11	42
+12	23
+13	6
+14	2
+15	2
+16	1
+
+Clusters for primary hash type 1 and secondary hash type 3
+1	142749
+2	64540
+3	28977
+4	12939
+5	5852
+6	2577
+7	1159
+8	526
+9	240
+10	118
+11	48
+12	24
+13	5
+14	3
+17	1
+18	1
+
+Clusters for primary hash type 2 and secondary hash type 1
+1	105844
+2	45229
+3	23074
+4	12908
+5	7760
+6	4785
+7	3126
+8	2083
+9	1382
+10	913
+11	615
+12	391
+13	280
+14	219
+15	143
+16	114
+17	81
+18	40
+19	37
+20	30
+21	20
+22	6
+23	8
+24	4
+25	8
+26	9
+27	1
+28	3
+30	1
+31	1
+33	2
+41	1
+
+Clusters for primary hash type 2 and secondary hash type 2
+1	142646
+2	63922
+3	29096
+4	13082
+5	5764
+6	2606
+7	1248
+8	586
+9	214
+10	103
+11	39
+12	17
+13	9
+14	5
+15	2
+16	3
+17	1
+
+Clusters for primary hash type 2 and secondary hash type 3
+1	142337
+2	64265
+3	28988
+4	13128
+5	5799
+6	2593
+7	1217
+8	538
+9	230
+10	102
+11	51
+12	19
+13	12
+14	4
+15	3
+
+------------------------------------------------------------------
+ALPHA = 0.95
+------------------------------------------------------------------
+Clusters for primary hash type 1 and secondary hash type 1
+1	101394
+2	44715
+3	23480
+4	13757
+5	8369
+6	5345
+7	3458
+8	2295
+9	1628
+10	1148
+11	789
+12	528
+13	360
+14	288
+15	191
+16	145
+17	127
+18	96
+19	69
+20	47
+21	41
+22	31
+23	28
+24	20
+25	13
+26	7
+27	7
+28	7
+29	4
+30	3
+31	2
+32	3
+33	1
+35	2
+44	1
+48	1
+
+Clusters for primary hash type 1 and secondary hash type 2
+1	137598
+2	65147
+3	31162
+4	14712
+5	7102
+6	3162
+7	1546
+8	754
+9	340
+10	149
+11	79
+12	49
+13	25
+14	5
+15	3
+16	4
+
+Clusters for primary hash type 1 and secondary hash type 3
+1	137583
+2	65410
+3	31247
+4	14613
+5	7016
+6	3214
+7	1582
+8	702
+9	355
+10	140
+11	68
+12	38
+13	22
+14	13
+15	6
+16	2
+17	2
+
+Clusters for primary hash type 2 and secondary hash type 1
+1	101171
+2	45086
+3	23416
+4	13470
+5	8301
+6	5399
+7	3423
+8	2327
+9	1618
+10	1190
+11	772
+12	544
+13	414
+14	264
+15	189
+16	150
+17	136
+18	87
+19	66
+20	56
+21	39
+22	37
+23	19
+24	27
+25	14
+26	10
+27	6
+28	2
+29	4
+30	3
+31	1
+33	1
+34	2
+36	1
+37	1
+38	1
+41	1
+42	1
+
+Clusters for primary hash type 2 and secondary hash type 2
+1	137111
+2	65494
+3	30740
+4	14630
+5	7163
+6	3296
+7	1578
+8	756
+9	348
+10	167
+11	74
+12	39
+13	24
+14	5
+15	2
+17	2
+18	1
+
+Clusters for primary hash type 2 and secondary hash type 3
+1	137369
+2	65277
+3	30939
+4	14612
+5	6916
+6	3386
+7	1597
+8	774
+9	356
+10	161
+11	83
+12	31
+13	25
+14	7
+15	3
+16	1
+17	2
+

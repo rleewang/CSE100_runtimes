@@ -1,0 +1,102 @@
+------------------------------------------------------------------
+ALPHA = 0.05
+------------------------------------------------------------------
+Avg S prior	Avg U prior	Avg S post	Avg U post
+Runtimes for primary hash type 1 and secondary hash type 1
+1.38552e-07	2.123e-07	1.77577e-07	1.992e-07
+Runtimes for primary hash type 1 and secondary hash type 2
+1.37751e-07	2.8147e-07	1.6083e-07	2.7328e-07
+Runtimes for primary hash type 1 and secondary hash type 3
+1.35538e-07	2.7549e-07	1.60334e-07	2.7432e-07
+Runtimes for primary hash type 2 and secondary hash type 1
+1.54192e-07	2.1328e-07	1.70558e-07	1.9973e-07
+Runtimes for primary hash type 2 and secondary hash type 2
+1.34775e-07	2.7858e-07	1.6331e-07	2.6287e-07
+Runtimes for primary hash type 2 and secondary hash type 3
+1.45037e-07	2.6929e-07	1.63043e-07	2.7206e-07
+
+------------------------------------------------------------------
+ALPHA = 0.1
+------------------------------------------------------------------
+Avg S prior	Avg U prior	Avg S post	Avg U post
+Runtimes for primary hash type 1 and secondary hash type 1
+1.66705e-07	2.1983e-07	1.62947e-07	2.2345e-07
+Runtimes for primary hash type 1 and secondary hash type 2
+1.60544e-07	2.8595e-07	1.87018e-07	2.6277e-07
+Runtimes for primary hash type 1 and secondary hash type 3
+1.86732e-07	2.6929e-07	1.67105e-07	2.8125e-07
+Runtimes for primary hash type 2 and secondary hash type 1
+1.63615e-07	2.1897e-07	1.78035e-07	2.1595e-07
+Runtimes for primary hash type 2 and secondary hash type 2
+1.598e-07	2.7606e-07	1.79351e-07	2.6099e-07
+Runtimes for primary hash type 2 and secondary hash type 3
+1.89708e-07	2.6435e-07	1.79999e-07	2.84e-07
+
+------------------------------------------------------------------
+ALPHA = 0.5
+------------------------------------------------------------------
+Avg S prior	Avg U prior	Avg S post	Avg U post
+Runtimes for primary hash type 1 and secondary hash type 1
+1.70528e-07	2.685e-07	1.75797e-07	2.609e-07
+Runtimes for primary hash type 1 and secondary hash type 2
+1.75507e-07	3.9822e-07	1.7437e-07	3.6761e-07
+Runtimes for primary hash type 1 and secondary hash type 3
+1.81679e-07	3.7482e-07	1.82911e-07	3.7547e-07
+Runtimes for primary hash type 2 and secondary hash type 1
+1.72314e-07	2.8449e-07	1.76662e-07	2.696e-07
+Runtimes for primary hash type 2 and secondary hash type 2
+1.74461e-07	3.6259e-07	1.80256e-07	3.5094e-07
+Runtimes for primary hash type 2 and secondary hash type 3
+1.83453e-07	3.6329e-07	1.82484e-07	3.8528e-07
+
+------------------------------------------------------------------
+ALPHA = 0.8
+------------------------------------------------------------------
+Avg S prior	Avg U prior	Avg S post	Avg U post
+Runtimes for primary hash type 1 and secondary hash type 1
+1.81413e-07	6.7214e-07	1.84941e-07	6.7315e-07
+Runtimes for primary hash type 1 and secondary hash type 2
+1.90284e-07	6.7213e-07	1.89831e-07	6.5863e-07
+Runtimes for primary hash type 1 and secondary hash type 3
+1.88334e-07	6.7154e-07	1.90439e-07	6.7822e-07
+Runtimes for primary hash type 2 and secondary hash type 1
+1.80276e-07	6.866e-07	1.82564e-07	6.95e-07
+Runtimes for primary hash type 2 and secondary hash type 2
+1.88053e-07	5.8199e-07	1.88763e-07	5.7991e-07
+Runtimes for primary hash type 2 and secondary hash type 3
+1.90604e-07	6.2118e-07	1.89011e-07	5.9568e-07
+
+------------------------------------------------------------------
+ALPHA = 0.9
+------------------------------------------------------------------
+Avg S prior	Avg U prior	Avg S post	Avg U post
+Runtimes for primary hash type 1 and secondary hash type 1
+1.82985e-07	2.03107e-06	1.82198e-07	2.02746e-06
+Runtimes for primary hash type 1 and secondary hash type 2
+1.9583e-07	1.13999e-06	1.96177e-07	1.12948e-06
+Runtimes for primary hash type 1 and secondary hash type 3
+1.99307e-07	1.14387e-06	2.01016e-07	1.14704e-06
+Runtimes for primary hash type 2 and secondary hash type 1
+1.84381e-07	2.05708e-06	1.87821e-07	2.06084e-06
+Runtimes for primary hash type 2 and secondary hash type 2
+1.94058e-07	1.0072e-06	1.95868e-07	9.9348e-07
+Runtimes for primary hash type 2 and secondary hash type 3
+1.95864e-07	1.00986e-06	1.94732e-07	1.01696e-06
+
+------------------------------------------------------------------
+ALPHA = 0.95
+------------------------------------------------------------------
+Avg S prior	Avg U prior	Avg S post	Avg U post
+Runtimes for primary hash type 1 and secondary hash type 1
+1.84415e-07	7.24966e-06	1.9365e-07	7.25611e-06
+Runtimes for primary hash type 1 and secondary hash type 2
+1.97583e-07	2.07743e-06	2.00067e-07	2.04647e-06
+Runtimes for primary hash type 1 and secondary hash type 3
+2.03364e-07	2.07742e-06	2.01224e-07	2.08932e-06
+Runtimes for primary hash type 2 and secondary hash type 1
+1.85756e-07	7.30179e-06	1.87426e-07	7.27635e-06
+Runtimes for primary hash type 2 and secondary hash type 2
+1.98023e-07	1.78794e-06	1.99302e-07	1.79466e-06
+Runtimes for primary hash type 2 and secondary hash type 3
+2.02013e-07	1.80953e-06	2.05498e-07	1.81558e-06
+
